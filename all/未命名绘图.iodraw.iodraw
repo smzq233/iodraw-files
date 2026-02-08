@@ -57,20 +57,17 @@
             <mxPoint x="500" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZ5ymsr47fiE5xTgJEVa-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="240" as="sourcePoint" />
-            <mxPoint x="610" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="610" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cZ5ymsr47fiE5xTgJEVa-17" value="FECAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZ5ymsr47fiE5xTgJEVa-18" value="FECAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ5ymsr47fiE5xTgJEVa-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="440" as="sourcePoint" />
+            <mxPoint x="500" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
