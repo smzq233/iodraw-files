@@ -36,7 +36,7 @@
         <mxCell id="cZ5ymsr47fiE5xTgJEVa-7" value="TCN+ode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="350" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cZ5ymsr47fiE5xTgJEVa-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZ5ymsr47fiE5xTgJEVa-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cZ5ymsr47fiE5xTgJEVa-10" value="TCN+ode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cZ5ymsr47fiE5xTgJEVa-27" value="trend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
