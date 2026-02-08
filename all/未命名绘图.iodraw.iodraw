@@ -98,10 +98,11 @@
             <mxPoint x="240" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="120" y="300" />
+              <mxPoint x="120" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZ5ymsr47fiE5xTgJEVa-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cZ5ymsr47fiE5xTgJEVa-28" value="小波去噪&lt;div&gt;卡尔曼滤波&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="200" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
