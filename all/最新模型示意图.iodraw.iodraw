@@ -20,12 +20,15 @@
         <mxCell id="wawW0DnRXB0BGVtgT2Mc-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="wawW0DnRXB0BGVtgT2Mc-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="280" y="340" as="targetPoint" />
+            <mxPoint x="230" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="300" />
-              <mxPoint x="160" y="340" />
+              <mxPoint x="160" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wawW0DnRXB0BGVtgT2Mc-4" value="Wavelet" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
