@@ -30,8 +30,14 @@
         <mxCell id="wawW0DnRXB0BGVtgT2Mc-4" value="Wavelet" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wawW0DnRXB0BGVtgT2Mc-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="220" width="70" height="40" as="geometry" />
+        <mxCell id="wawW0DnRXB0BGVtgT2Mc-5" value="TCN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wawW0DnRXB0BGVtgT2Mc-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
