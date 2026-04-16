@@ -4,63 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-1" value="MySQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="450" y="300" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="320" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="320" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-5" value="Vue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="90" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-6" value="Vue Router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="140" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Color Emoji, system-ui, PingFang SC, PingFangSC-Regular, Microsoft YaHei, Hiragino Sans GB, Heiti SC, WenQuanYi Micro Hei, Arial, Helvetica, sans-serif, Apple Braille, Color Emoji Fix&quot;&gt;Element-UI&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="90" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-8" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Color Emoji, system-ui, PingFang SC, PingFangSC-Regular, Microsoft YaHei, Hiragino Sans GB, Heiti SC, WenQuanYi Micro Hei, Arial, Helvetica, sans-serif, Apple Braille, Color Emoji Fix&quot;&gt;Axios&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-9" value="js-cookie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="140" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-10" value="ECharts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="140" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-12" value="SpringBoot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="220" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-13" value="MyBatis-Plus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-14" value="JJWT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="uPFdUMLKWsb61aZnsNlw-4" target="uPFdUMLKWsb61aZnsNlw-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="uPFdUMLKWsb61aZnsNlw-3" target="uPFdUMLKWsb61aZnsNlw-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-22" value="前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-23" value="后端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="225" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-24" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="305" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
