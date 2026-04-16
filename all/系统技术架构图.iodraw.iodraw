@@ -28,7 +28,7 @@
         <mxCell id="uPFdUMLKWsb61aZnsNlw-38" value="HTTP/HTTPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="170" y="110" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
+        <mxCell id="uPFdUMLKWsb61aZnsNlw-39" value="用户请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="170" y="30" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
