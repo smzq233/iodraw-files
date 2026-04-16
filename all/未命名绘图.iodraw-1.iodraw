@@ -7,11 +7,8 @@
         <mxCell id="uPFdUMLKWsb61aZnsNlw-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="300" height="120" as="geometry" />
+          <mxGeometry x="320" y="210" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="320" height="110" as="geometry" />
