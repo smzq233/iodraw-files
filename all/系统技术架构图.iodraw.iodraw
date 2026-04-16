@@ -37,7 +37,7 @@
         <mxCell id="uPFdUMLKWsb61aZnsNlw-41" value="访客管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="180" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-53" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
+        <mxCell id="uPFdUMLKWsb61aZnsNlw-53" value="卫生评分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="180" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-54" value="寝室分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
@@ -52,7 +52,7 @@
         <mxCell id="uPFdUMLKWsb61aZnsNlw-57" value="报修管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="440" y="200" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
+        <mxCell id="uPFdUMLKWsb61aZnsNlw-58" value="换寝申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="440" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
