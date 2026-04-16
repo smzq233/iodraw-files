@@ -31,7 +31,7 @@
         <mxCell id="uPFdUMLKWsb61aZnsNlw-39" value="用户请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="170" y="30" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
+        <mxCell id="uPFdUMLKWsb61aZnsNlw-40" value="个人信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="180" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="440" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uPFdUMLKWsb61aZnsNlw-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
+          <mxGeometry x="440" y="280" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
