@@ -7,7 +7,7 @@
         <mxCell id="uPFdUMLKWsb61aZnsNlw-25" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="560" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-26" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
+        <mxCell id="uPFdUMLKWsb61aZnsNlw-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="20" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-28" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
@@ -58,7 +58,7 @@
         <mxCell id="uPFdUMLKWsb61aZnsNlw-59" value="签到打卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="450" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uPFdUMLKWsb61aZnsNlw-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
+        <mxCell id="uPFdUMLKWsb61aZnsNlw-60" value="登录注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
           <mxGeometry x="360" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uPFdUMLKWsb61aZnsNlw-61" value="数据统计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uPFdUMLKWsb61aZnsNlw-25">
