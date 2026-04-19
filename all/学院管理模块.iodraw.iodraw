@@ -55,6 +55,57 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="150" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--16" value="成员信息维护" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--17" value="成员添加跟批量操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--18" value="状态控制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--19" value="分会架构管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--20" value="历史记录查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--21" value="学生会" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Y9DOnfKrFRWpQmVkq7c--21" target="Y9DOnfKrFRWpQmVkq7c--16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Y9DOnfKrFRWpQmVkq7c--21" target="Y9DOnfKrFRWpQmVkq7c--20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Y9DOnfKrFRWpQmVkq7c--21" target="Y9DOnfKrFRWpQmVkq7c--19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Y9DOnfKrFRWpQmVkq7c--18" target="Y9DOnfKrFRWpQmVkq7c--21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Y9DOnfKrFRWpQmVkq7c--17" target="Y9DOnfKrFRWpQmVkq7c--21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
