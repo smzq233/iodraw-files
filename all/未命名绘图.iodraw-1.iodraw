@@ -13,7 +13,7 @@
         <mxCell id="xaXAQRjAz626vdFXD1UC-3" value="学院信息维护" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xaXAQRjAz626vdFXD1UC-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xaXAQRjAz626vdFXD1UC-4" value="专业结构管理&lt;a href=&quot;https://github.com/Ladbaby/PyOmniTS&quot;&gt;Ladbaby/PyOmniTS: 🔬 A Researcher&amp;amp;Agent-Friendly Framework for Time Series Analysis. Train Any Model on Any Dataset!&lt;/a&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
