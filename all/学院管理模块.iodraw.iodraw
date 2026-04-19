@@ -7,8 +7,8 @@
         <mxCell id="Y9DOnfKrFRWpQmVkq7c--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="Y9DOnfKrFRWpQmVkq7c--2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="Y9DOnfKrFRWpQmVkq7c--2" value="成员信息维护" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
