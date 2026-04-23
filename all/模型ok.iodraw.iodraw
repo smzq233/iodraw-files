@@ -41,7 +41,7 @@
             <mxPoint x="560" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uuCtHQ-yfASY7XTriRuN-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="uuCtHQ-yfASY7XTriRuN-1" target="uuCtHQ-yfASY7XTriRuN-13">
+        <mxCell id="uuCtHQ-yfASY7XTriRuN-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="uuCtHQ-yfASY7XTriRuN-1" target="uuCtHQ-yfASY7XTriRuN-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="200" y="360" as="targetPoint" />
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uuCtHQ-yfASY7XTriRuN-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
