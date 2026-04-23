@@ -87,7 +87,7 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uuCtHQ-yfASY7XTriRuN-20" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start; background-color: rgb(235, 238, 242);&quot;&gt;PatchDiffusionDenoiser&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uuCtHQ-yfASY7XTriRuN-20" value="noise_return" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uuCtHQ-yfASY7XTriRuN-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="uuCtHQ-yfASY7XTriRuN-18" target="uuCtHQ-yfASY7XTriRuN-20">
