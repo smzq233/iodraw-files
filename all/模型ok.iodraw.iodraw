@@ -16,8 +16,8 @@
         <mxCell id="uuCtHQ-yfASY7XTriRuN-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="430" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="uuCtHQ-yfASY7XTriRuN-4" value="&lt;div style=&quot;background-color: rgb(43, 43, 43);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font color=&quot;#a9b7c6&quot;&gt;&lt;span style=&quot;font-size: 13.0667px;&quot;&gt;per_branch&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;JetBrains Mono, monospace&quot; color=&quot;#a9b7c6&quot;&gt;&lt;span style=&quot;font-size: 9.8pt;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="388" width="90" height="50" as="geometry" />
+        <mxCell id="uuCtHQ-yfASY7XTriRuN-4" value="&lt;div style=&quot;background-color: rgb(43, 43, 43);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="388" width="20" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
