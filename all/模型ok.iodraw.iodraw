@@ -90,6 +90,12 @@
         <mxCell id="uuCtHQ-yfASY7XTriRuN-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uuCtHQ-yfASY7XTriRuN-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="uuCtHQ-yfASY7XTriRuN-18" target="uuCtHQ-yfASY7XTriRuN-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
